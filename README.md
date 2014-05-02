@@ -7,3 +7,4 @@ This is a fork on [https://github.com/coopernurse/gorp](https://github.com/coope
 
 ## Todo ##
   - Support different table creation syntax;
+  - Add ping/pong test after the connection established, otherwise, the system cannot tell the connect is valid or not;
